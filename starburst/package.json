@@ -1,0 +1,21 @@
+{
+  "name": "starburst",
+  "displayName": "Starburst",
+  "description": "Starburst theme insipred by and based on One Dark Pro theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Pro: Starburst Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Dark Pro Starburst Edition-color-theme.json"
+      }
+    ]
+  }
+}
